@@ -1,3 +1,5 @@
+Some Git notes...
+
 **create a new repository
 create a new directory, open it and perform a 
 git init
