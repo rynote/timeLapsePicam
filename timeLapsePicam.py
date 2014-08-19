@@ -10,7 +10,7 @@ import time
 from datetime import datetime
 import sys
 
-debugMode = True # True or False
+debugMode = False # True or False
 
 # Set the location for saved pictures
 filepath = "~/pics"
