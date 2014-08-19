@@ -10,6 +10,7 @@ import time
 from datetime import datetime
 import sys
 
+#debugMode set to True will not actuall call the raspistill command. Use for checking other parts of code.
 debugMode = False # True or False
 
 # Set the location for saved pictures
