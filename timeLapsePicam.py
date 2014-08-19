@@ -1,6 +1,7 @@
 #!/usr/bin/python
 
 # timeLapsPicam.py - A simple way to take time-lapse photos with your rpi
+# Stolen and shredded from other timelapse / motion capture scripts
 
 import subprocess
 import os
