@@ -13,7 +13,7 @@ import sys
 debugMode = True # True or False
 
 # Set the location for saved pictures
-filepath = "~/Documents"
+filepath = "~/pics"
 filepath = os.path.expanduser(filepath) # Expand the user homedir if needed
 
 # Prepare the filename prefix based on date/time
