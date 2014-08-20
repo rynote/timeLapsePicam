@@ -1,0 +1,8 @@
+mounting usb drive:
+http://www.raspberrypi.org/forums/viewtopic.php?f=26&t=48958
+Basically:
+sudo mkdir /mnt/usb
+sudo mount /dev/sda1 /mnt/usb/ -o fmask=0000,dmask=0000
+(fmask,dmask stuff fixes read/write problems)
+
+
